@@ -1,4 +1,4 @@
-<div style="position: relative; text-align: center; font-family: Arial, sans-serif;">
+<div style="position: relative; font-family: Arial, sans-serif; text-align: center;">
 
   <!-- Hình GIF nền -->
   <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e472fz6jsmj3uf9ymfoo37fp5zdbcw5x8qrxgd289k4&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
