@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi there, I'm SteveSec 👋
 
-<!--
-**hiennnba/Hiennnba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **5+ years penetration testing**  
+⚡ **Scripting in my spare time, pwning at work!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+**Operating Systems**  
+Debian, iOS, Kali Linux, Ubuntu, Windows
+
+**Languages**  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevesec&show_icons=true&theme=radical)
+![GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
