@@ -1,3 +1,5 @@
+<div style="background-image: url('https://path-to-your-image.com'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; color: white; font-family: Arial, sans-serif;">
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="50">
   Welcome to My GitHub Profile
@@ -46,4 +48,6 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%">
+</div>
+
 </div>
