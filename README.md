@@ -11,10 +11,18 @@
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Tech GIF" width="90%">
 
 <!-- Giới thiệu ngắn -->
+<div align="center">
+
 <p>
-  🌟 **Cybersecurity Enthusiast** | **Kali Linux Fanatic** | **Kernel Tinkerer** 🌟  
-  🔥 Passionate about Exploring the World of Ethical Hacking and Kernel Engineering 🔥
+  <span style="color:#FFA500; font-size: 20px;">🌟 <b>Cybersecurity Enthusiast</b></span> | 
+  <span style="color:#00FFFF; font-size: 20px;"><b>Kali Linux Fanatic</b></span> | 
+  <span style="color:#32CD32; font-size: 20px;"><b>Kernel Tinkerer</b></span> 🌟
 </p>
+<p>
+  <span style="color:#FF4500;">🔥 Passionate about Exploring the World of Ethical Hacking and Kernel Engineering 🔥</span>
+</p>
+
+</div>
 
 <!-- Huy hiệu -->
 <div>
