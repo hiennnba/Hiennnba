@@ -4,7 +4,11 @@
   Welcome to HiennnBa's Tech Profile
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60">
 </h1>
-<img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e472fz6jsmj3uf9ymfoo37fp5zdbcw5x8qrxgd289k4&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cat GIF" width="50%">
+<div style="margin: 0; padding: 0; width: 100%; height: 100vh; overflow: hidden;">
+  <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e472fz6jsmj3uf9ymfoo37fp5zdbcw5x8qrxgd289k4&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+       alt="Full Width GIF" 
+       style="width: 100%; height: auto; display: block;">
+</div>
 <div align="center">
 
 <p>
