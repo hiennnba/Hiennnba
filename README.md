@@ -24,13 +24,10 @@
   <img src="https://img.shields.io/badge/Shell-Bash-red?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-<!-- Hình ảnh động CPU -->
-<img src="https://media.giphy.com/media/kBZBlLVlfECvOQAVno/giphy.gif" alt="CPU Animation" width="70%">
-
 <!-- Kết nối -->
 <p>
-  📧 **Contact**: <a href="mailto:hiennnba@example.com">hiennnba@example.com</a>  
-  🌐 **Website**: <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a>
+  📧 **Contact**: <a href="mailto:hiennnba@example.com">hatb1845@gmail.com</a>  
+  🌐 **Website**: <a href="https://yourwebsite.com" target="_blank"></a>
 </p>
 
 </div>
