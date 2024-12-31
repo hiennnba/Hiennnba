@@ -8,7 +8,7 @@
 </h1>
 
 <!-- Hình động về công nghệ -->
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Tech GIF" width="300">
+<img src="[https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif](https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e472fz6jsmj3uf9ymfoo37fp5zdbcw5x8qrxgd289k4&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Tech GIF" width="300">
 
 <!-- Giới thiệu ngắn -->
 <div align="center">
