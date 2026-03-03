@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Shell-Bash-red?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 <p>
-  📧 **Contact**: <a href="mailto:hiennnba@example.com">hatb1845@gmail.com</a>  
+  📧 **Contact**: <a href="mailto:hiennnba@example.com">billykimbe@proton.me</a>  
   🌐 **Website**: <a href="https://yourwebsite.com" target="_blank"></a>
 </p>
 
